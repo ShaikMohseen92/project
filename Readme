@@ -1,0 +1,23 @@
+#Author:Shaik Mohseen
+
+#Email:mohseen.srm@gmail.com
+
+Steps:
+
+1. Clone my project to IDE
+
+2. Select TrialSignup.java file
+
+3. Run as Java application
+
+
+
+I attempted to create a mini project and develop test scripts around it, but I required more time to complete it. 
+I faced elements returning null errors in the com.trailsignup.Locators and an issue with the Chrome driver not 
+supporting my MAC version of Chrome. Unfortunately, due to the time constraints, I was unable to address these issues 
+and could not achieve the reCAPTCHA.
+
+Instead, I used Firefox to run my test scripts and tried creating scripts for the signup page. Had I had sufficient 
+time to address the CAPTCHA problem, I would have been able to automate most of the functionalities outlined in the 
+test case document.
+
